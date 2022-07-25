@@ -1,6 +1,7 @@
 ## Hi there, I'm Charity 👋
 
-- 🔭 I’m currently working with a fintech named <a href="">Moolre Inc</a>
+- 🔭 Experience working with a fintech named <a href="">Moolre Inc</a>
+- ✨ Planning, Requirements, Design, Build, Document, Test, Deploy, Maintain
 - 🌱 I’m currently learning iOS development
 - 👯 I’m looking to collaborate on Reactjs, Nextjs and Nodejs Projects
 - 🤔 I’m looking for help with UI/UX
