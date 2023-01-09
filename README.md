@@ -18,8 +18,3 @@
 <img align="left" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white" />
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-
-
-### Statistics
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=afyacy&show_icons=true&theme=radical" />
-<!--<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afyacy&layout=compact" />-->
